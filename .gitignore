@@ -4,4 +4,8 @@
 _pycache_/
 *.pyc
 stockflow.db
+<<<<<<< HEAD
 *.log
+=======
+*.log
+>>>>>>> d32bb63 (Initial commit)
